@@ -146,3 +146,9 @@ This section provides detailed information about installing and configuring Acti
   :tabs="frontmatter.tabs" 
   :compose="frontmatter.compose" 
 /> -->
+
+## MPC Hosting
+
+Make sure to turn off "gzip compression" if you are having trouble connecting.
+
+<img width="441" alt="image" src="https://github.com/user-attachments/assets/d9c0b842-d50c-4d89-81a2-6936a544bb8d" />
